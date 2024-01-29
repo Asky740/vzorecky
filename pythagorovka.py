@@ -14,6 +14,9 @@ if d==1:
 elif d==2:
     a = input("Zadejte stranu a: ") 
     b = input("Zadejte stranu b: ")
+elif d==3:
+    
+
 #přetypování
 a = int(a)
 b = int(b)
